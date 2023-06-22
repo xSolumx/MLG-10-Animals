@@ -1,2 +1,2 @@
-# MLG382_Project
+# MLG 10 Animals CNN
 Machine Learning Project
